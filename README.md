@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fernando Cazon</h1>
-<h3 align="center">Full-Stack Web Developer (who is also a Medical Doctor)</h3>
+<h1 >Hi,  I'm Fernando Cazon</h1>
+<h3 >Full-Stack Web Developer (who is also a Medical Doctor)</h3>
 
 - 🌱 I’m currently learning **ThreeJs, Unreal Engine and Blender**
 
