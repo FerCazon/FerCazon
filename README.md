@@ -1,6 +1,10 @@
 <h1 >Hi,  I'm Fernando Cazon</h1>
 <h3 >Full-Stack Web Developer (who is also a Medical Doctor)</h3>
 
+Driven and versatile medical professional with a strong foundation in Anesthesiology, Surgery and Emergency Medicine, I am currently transitioning into the field of Information Technology as a Full Stack Web Developer. With over 5 years of experience working in various medical settings, I have honed my skills in emergency management, clinical research, teamwork, and cross-functional collaborations. I am eager to leverage my medical background and newly acquired web development expertise to create innovative solutions in healthcare technology.
+
+As a future graduate of the Henry Full Stack Web Developer program, I am well-equipped with the technical skills and knowledge required for modern web development. I am excited to explore opportunities that bridge the gap between medicine and technology, allowing me to combine my passion for improving patient care with the power of IT. My ultimate goal is to contribute to the advancement of healthcare through the development and implementation of cutting-edge web applications and platforms.
+
 - 🌱 I’m currently learning **ThreeJs, Unreal Engine and Blender**
 
 - 📫 How to reach me **fernandocazon2@gmail.com**
