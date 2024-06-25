@@ -9,7 +9,7 @@ As a  graduate of the Henry Full Stack Web Developer program, I am well-equipped
 
 - 🌱 I’m currently learning **Langchain, tensorflow and pytorch for AI integrations**
 
-- I'm currently working with Next.js on a React Enviroment with Redux Toolkit.
+- 🔭 I'm currently working with Next.js on a React Enviroment with Redux Toolkit.
 
 - 📫 How to reach me **fernandocazon2@gmail.com**
 
