@@ -5,7 +5,11 @@ Driven and versatile medical professional with a strong foundation in Anesthesio
 
 As a  graduate of the Henry Full Stack Web Developer program, I am well-equipped with the technical skills and knowledge required for modern web development. I am excited to explore opportunities that bridge the gap between medicine and technology, allowing me to combine my passion for improving patient care with the power of IT. My ultimate goal is to contribute to the advancement of healthcare through the development and implementation of cutting-edge web applications and platforms.
 
-- 🌱 I’m currently learning **ThreeJs, Unreal Engine and Blender**
+- 🌱 I’m currently learning **ThreeJs, Unreal Engine ,Blender for visual applications**
+
+- 🌱 I’m currently learning **Langchain, tensorflow and pytorch for AI integrations**
+
+- I'm currently working with Next.js on a React Enviroment with Redux Toolkit.
 
 - 📫 How to reach me **fernandocazon2@gmail.com**
 
